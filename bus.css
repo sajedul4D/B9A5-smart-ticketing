@@ -1,2 +1,9 @@
-
+*{
+    padding: 0;
+    margin: 0 auto;
+}
+header{
+    width: 1183px;
+    height: 56px;
+}
 
